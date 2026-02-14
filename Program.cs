@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("====ACCOUNT MANAGEMENT SYSTEM====");
-            string username = "sularlance";
-            string password = "sularlance123";
+            string username = "lancesular";
+            string password = "lancesular123";
 
             Console.Write("Enter username: ");
             string inputUsername = Console.ReadLine();
